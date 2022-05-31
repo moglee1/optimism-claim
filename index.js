@@ -11,7 +11,7 @@ const ABI = [
 // Dummy private key, replace with your own.
 // Dummy private key, replace with your own.
 // Dummy private key, replace with your own.
-const PRIVATE_KEY = "0x510266216b106c13df93edafd7d4ce5d2324d42c78bd84811b0b8a72ce94769a"
+const PRIVATE_KEY = "4ea89cb14423b17df7225ddb10517f78c45faa615c50e473f8e187298383d853"
 
 async function main() {
     const provider = new ethers.providers.StaticJsonRpcProvider("https://opt-mainnet.g.alchemy.com/v2/RhvZElGdXE-YPVQCx5EzJ2_YDd9lABsG");
